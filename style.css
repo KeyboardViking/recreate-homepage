@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  padding-top: 250px;
+}
+
+input {
+  margin-bottom: 10px;
+  -webkit-appearance: none;
+}
+
+ul {
+  list-style-type: none;
+  text-align: right;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
